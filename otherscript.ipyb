@@ -1,0 +1,6 @@
+numbers = []
+
+data = input('What do you want? ')
+
+for one_character in data:
+    print(one_character)
