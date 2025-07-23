@@ -1,3 +1,1 @@
-# learning
-
-Clone respository - Making a commit and push now.
+This repo is specifically for repetition of Git push, clone, fetch, pull actions. Repetition is key to grasping syntax requirements of Python.
